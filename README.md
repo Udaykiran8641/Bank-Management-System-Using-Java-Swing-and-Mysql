@@ -5,7 +5,7 @@ The system allows users to perform various banking operations such as creating a
 >>Installation
 Clone the repository:
 
-git clone :-
+git clone :- https://github.com/Udaykiran8641/Bank-Management-System-Using-Java-Swing-and-Mysql/tree/main
 Set up MySQL database:
 
 Create a MySQL database named bank_management_system.
